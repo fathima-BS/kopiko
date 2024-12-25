@@ -1,0 +1,162 @@
+html,body{
+    margin:0;
+    font-family: 'Asap', sans-serif;
+    background-color: black;;
+}
+header{
+    background-color:rgb(0,0,0);
+    width: 100%;
+    height: 76.66px;
+    display:flex;
+}
+/* .logo{
+    width:50%;
+    float: left;
+}
+.Titles{
+    width: 50%;
+    float:left;
+    
+} */
+.image{
+    width: 180px;
+    height: 109.41px;
+    padding-left:190px;
+    position:relative;
+    cursor:pointer;
+}
+.text1{
+    color: #df0427;
+    font-weight:bold;
+    text-decoration:none; 
+    padding:10px 35px;
+    font-size:23px;   
+}
+.text2{
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+    padding:10px 35px;
+    font-size:20px;    
+}
+.Titles{
+    margin-top:30px;
+    margin-left:285px;
+   
+}
+.text2:hover{
+    color: #df0427;
+    font-size:23px;
+}
+.first-img{
+    width:100%;
+    height: 560px;
+}
+
+.middle-image{
+    /* width: 100%;*/
+    height:390px ;
+    display:flex;
+    /* background-color: yellow; */
+    padding:20px 20px;
+}
+.second-imag{
+    width: 50%;
+    float: left;
+    /* padding-left:200px; */
+    
+
+}
+.para{ 
+    float: left;
+    width:580px;
+    height:500px;
+    font-size:20px;
+    font-family: "helveticaneueregular";
+    line-height: 32px; 
+}
+.main-Kopiko{
+    width: 385px;
+    height: 267px;
+    padding-left: 270px;
+}
+.text{
+    color: white;
+    /* background-color: grey; */
+    padding-left:0px;
+}
+.h2a{
+    font-size: 36px;
+    margin:0;
+}
+.third{
+    width:100%;
+    height: 728px;
+    background-size: cover;
+}
+.thirdParent{
+    position:relative;
+}
+.thirdtext{
+    position:absolute;
+    top:0;
+    padding-left: 670px; 
+    padding-top: 47px;
+}
+.h2b{
+    color: red;
+    font-size: 6em;
+    margin-bottom: 10px;
+    font-family: 'helveticaneuebold', sans-serif;
+}
+.para2{
+    font-family: 'helveticaneueregular', sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 25px;
+}
+.last{
+    position:relative;
+}
+.forth-img{
+    background-size: cover;
+    height: 678.41px;
+    width: 100%;
+}
+.fourthtext{
+    position:absolute;
+    top:0;
+    padding-left: 400px;
+    padding-top: 258px;
+    font-family: 'helveticaneueregular', sans-serif;
+
+}
+.h2c{
+    color:white;
+    font-weight: bold;
+    line-height: 1.1;
+    font-size: 50px;
+    margin:0;
+    text-align: center;
+}
+.para3{
+    color:white;
+    font-family: 'helveticaneueregular', sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.1;
+    font-size: 20px;
+    text-align: center;
+}
+.para4{
+   height: 80px;
+}
+.lastPara{
+    color:white;
+    padding-left:183px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-top:37px;
+    
+}
+.Span{
+    text-align: center;
+}
